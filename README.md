@@ -1,4 +1,4 @@
-# firebase と REACTREACT を使用した Todo リスト
+# firebase と REACT を使用した Todo リスト
 
 ## プロダクトの紹介
 
